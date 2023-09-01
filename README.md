@@ -2,7 +2,10 @@
 
 ## Description
 The goal of this project is to create a portfolio that will display past and future projects that I create
+![Project](./Assets/portfolio-screenshot.png)
 
+## Languages
+### HTML, CSS
 ## Installation
 N/A
 
